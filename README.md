@@ -16,7 +16,7 @@ This project recommends suitable career paths based on user skills and interests
 ## How to Run
 
 1. Clone the repository
-git clone https://github.com/yourusername/career-recommender-system.git
+git clone https://github.com/varsha490/career-recommender-system.git
 
 2. Install requirements
 pip install -r requirements.txt
